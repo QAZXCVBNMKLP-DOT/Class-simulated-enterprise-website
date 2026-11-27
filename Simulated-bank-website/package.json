@@ -1,0 +1,13 @@
+{
+  "name": "mobank-campus",
+  "version": "1.1.0",
+  "private": true,
+  "description": "模拟银行校园教育应用与163邮箱验证码服务",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20 <21"
+  }
+}
